@@ -1,4 +1,4 @@
-package com.rv;
+package com.rv.t1;
 
 public class T1_1 {
     public static void main(String[] args) {
