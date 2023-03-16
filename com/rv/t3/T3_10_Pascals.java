@@ -17,6 +17,7 @@ public class T3_10_Pascals {
             for (int j = 1; j < i; j++) {
                 triangle[i][j] = triangle[i-1][j-1] + triangle[i-1][j];
             }
+
         }
 
         for (int i = 0; i < numRows; i++) {
