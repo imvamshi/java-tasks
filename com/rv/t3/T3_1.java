@@ -1,4 +1,4 @@
-package com.rv;
+package com.rv.t3;
 
 public class T3_1 {
     public static void main(String[] args) {
