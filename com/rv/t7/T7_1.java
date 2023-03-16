@@ -1,4 +1,4 @@
-package com.rv;
+package com.rv.t7;
 
 import java.util.Scanner;
 
